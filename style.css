@@ -17,7 +17,7 @@
     width:100px;
 }
 .logo{
-    background-image:url("amazon log0.webp");
+    background-image:url("assets/amazon-logo/amazon log0.webp");
     background-size:cover;
     height:50px;
     width:100%;
@@ -166,7 +166,7 @@ a:hover{
 }
 /*BACKGROUNG IMAGE*/
 .back-image{
-    background-image: url("amazon homepage.jpg");
+    background-image: url("assets/home-pages/amazon homepage.jpg");
     background-size:cover;
     height:350px;
 }
@@ -180,13 +180,13 @@ a:hover{
 }
 @keyframes home-animate{
     from 0%{
-        background-image: url("amazon homepage.jpg");
+        background-image: url("assets/home-pages/amazon homepage.jpg");
     }
     40%{
-        background-image: url("home page2.jpg");
+        background-image: url("assets/home-pages/home page2.jpg");
     }
     80%{
-        background-image: url("home page 3.jpg");
+        background-image: url("assets/home-pages/home page 3.jpg");
     }
 }
 /*hero msg*/
@@ -291,7 +291,7 @@ ul a:hover{
     align-items: center;
 }
 .logo{
-    background-image:url("amazon log0.webp");
+    background-image:url("assets/amazon-logo/amazon log0.webp");
     background-size:cover;
     height:50px;
     width: 96.28px;
